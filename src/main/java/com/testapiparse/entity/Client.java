@@ -22,7 +22,7 @@ public class Client {
     private Long id;
     private String first_name;
     private String last_name;
-    private String surname;
+    private String middle_name;
     private LocalDate date;
     private String contract_number;
     private String birth_country;
